@@ -1,2 +1,2 @@
-def src_02():
+def function_01():
     print("hi src02")
