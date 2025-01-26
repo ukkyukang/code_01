@@ -8,5 +8,5 @@ from code_01.package_02 import src_02
 
 
 
-
-src_02.function_01()
+print("Run : code_01/package_01/src_01")
+# src_02.function_01()
